@@ -2,3 +2,8 @@ body {
   background-color: #383B40;
   color: aliceblue;
 }
+
+table {
+  background-color: blueviolet;
+  border: black;
+}
